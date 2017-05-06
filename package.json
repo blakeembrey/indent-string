@@ -32,9 +32,9 @@
     "line"
   ],
   "dependencies": {
-    "get-stdin": "^3.0.0",
+    "get-stdin": "^5.0.1",
     "minimist": "^1.1.0",
-    "repeat-string": "^0.1.2"
+    "repeat-string": "^1.6.1"
   },
   "devDependencies": {
     "mocha": "*"
