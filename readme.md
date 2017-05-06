@@ -1,5 +1,7 @@
 # indent-string [![Build Status](https://travis-ci.org/sindresorhus/indent-string.svg?branch=master)](https://travis-ci.org/sindresorhus/indent-string)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/indent-string.svg)](https://greenkeeper.io/)
+
 > Indent each line in a string
 
 
